@@ -1,4 +1,4 @@
-# Spring Mocked Integration Tests
+# Spring Integration Tests With Mocks
 
 *Reducing a bit of boilerplate in integration tests that contain mocks in Spring Framework using JUnit and Mockito*
 
