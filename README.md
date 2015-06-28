@@ -16,7 +16,7 @@ Aside from that, it shows how to create standalone console application with:
 - Spring Data
 - Tested with JUnit and Mockito
 
-I hope you find it useful!
+I hope you find it useful! If you like this concept of mocking in integration tests, check out this repo that takes it a bit further and adds support for spies and other extras: https://github.com/hobo05/mockitobeans .
 
 --
 Kresimir
